@@ -4,7 +4,7 @@ This repository contains concise summaries of each chapter from the "Python Cras
 
 # Contents 
 - [Chapter2: Variables and Simple Data Types](https://github.com/ielhoregr/python-crash-course/tree/master/Chapter%202-Variables%20and%20simple%20data%20types) 
-- [Chapter 3: Introduction Lists](https://github.com/ielhoregr/python-crash-course/tree/master/chapter%203-Introduction%20Lists)  
+- [Chapter 3: Introduction Lists](https://github.com/ielhoregr/python-crash-course/tree/master/chapter%203-Introduction%20Lists) 
 
 
 ## Project Motivation
