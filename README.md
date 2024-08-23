@@ -3,8 +3,8 @@
 This repository contains concise summaries of each chapter from the "Python Crash Course" book by Eric Matthes. The summaries are intended to provide a quick reference and review of the key concepts covered in each chapter, helping both beginners and experienced Python developers reinforce their understanding of Python programming.
 
 # Contents 
-- [Chapter2: Variables and Simple Data Types]('\Chapter 2-Variables and simple data types') 
-- [Chapter 3: Introduction Lists]('D:\AI\Python Crash course book\python-crash-course\chapter 3-Introduction Lists') 
+- [Chapter2: Variables and Simple Data Types](https://github.com/ielhoregr/python-crash-course/tree/master/Chapter%202-Variables%20and%20simple%20data%20types) 
+- [Chapter 3: Introduction Lists](https://github.com/ielhoregr/python-crash-course/tree/master/chapter%203-Introduction%20Lists)  
 
 
 ## Project Motivation
@@ -17,7 +17,7 @@ The goal of this project is to create an easily accessible and understandable re
 
 ## Requirements 
 - **Python 3.12.4** 
--**Jupyter Lab** (or alternatives like VS Code with Jupyter extension, Google Colab) for running code examples and exploring concepts interactively
+- **Jupyter Lab** (or alternatives like VS Code with Jupyter extension, Google Colab) for running code examples and exploring concepts interactively
 
 
 # Contact Information 
