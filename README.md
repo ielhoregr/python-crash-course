@@ -16,7 +16,7 @@ The goal of this project is to create an easily accessible and understandable re
 - **For Contribution**: If you have suggestions for improving the explanations or would like to contribute to future chapters, your input is welcome.
 
 ## Requirements 
-- **Python 3.12.4** 
+- **Python 3.9 or higher** 
 - **Jupyter Lab** (or alternatives like VS Code with Jupyter extension, Google Colab) for running code examples and exploring concepts interactively
 
 
